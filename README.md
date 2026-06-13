@@ -15,6 +15,38 @@
 
 ---
 
+
+
+
+
+## 🚗 SEDO
+
+**Android Auto / Apple CarPlay for your bike or car — runs on an old device.**
+
+Turns any old Android phone into a full-featured car display with navigation, media, and more.
+
+<br/>
+
+#### UI
+
+| Dashboard | Navigation | Media |
+|-----------|------------|-------|
+| <img src="assets/sedo/dashboard.png" width="200"/> | <img src="assets/sedo/navigation.png" width="200"/> | <img src="assets/sedo/media.png" width="200"/> |
+
+<br/>
+
+#### In action
+
+<img src="assets/sedo/demo.gif" alt="SEDO walkthrough" width="100%"/>
+
+<br/>
+
+**Stack** &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; Google Maps API &nbsp;&nbsp;|&nbsp;&nbsp; **Platform** &nbsp;·&nbsp; Android 8 (Oreo+)
+
+[View on GitHub →](https://github.com/GranthikSom/sedo)
+
+<br/>
+
 <br/>
 
 ## 🎵 MUSIX
@@ -52,35 +84,6 @@ Stream tracks, discover artists, and upload your own music — all in one place.
 ---
 
 <br/>
-
-## 🚗 SEDO
-
-**Android Auto / Apple CarPlay for your bike or car — runs on an old device.**
-
-Turns any old Android phone into a full-featured car display with navigation, media, and more.
-
-<br/>
-
-#### UI
-
-| Dashboard | Navigation | Media |
-|-----------|------------|-------|
-| <img src="assets/sedo/dashboard.png" width="200"/> | <img src="assets/sedo/navigation.png" width="200"/> | <img src="assets/sedo/media.png" width="200"/> |
-
-<br/>
-
-#### In action
-
-<img src="assets/sedo/demo.gif" alt="SEDO walkthrough" width="100%"/>
-
-<br/>
-
-**Stack** &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; Google Maps API &nbsp;&nbsp;|&nbsp;&nbsp; **Platform** &nbsp;·&nbsp; Android 8 (Oreo+)
-
-[View on GitHub →](https://github.com/GranthikSom/sedo)
-
-<br/>
-
 ---
 
 <br/>
