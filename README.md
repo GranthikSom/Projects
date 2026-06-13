@@ -37,7 +37,7 @@ Turns any old Android phone into a full-featured car display with navigation, me
 
 #### In action
 
-<img src="assets/sedo/demo.gif" alt="SEDO walkthrough" width="100%"/>
+<img src="test.gif" alt="Demo" width="800">
 
 <br/>
 
