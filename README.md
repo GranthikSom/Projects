@@ -31,13 +31,13 @@ Turns any old Android phone into a full-featured car display with navigation, me
 
 | Dashboard | Navigation | Media |
 |-----------|------------|-------|
-| <img src="assets/sedo/dashboard.png" width="200"/> | <img src="assets/sedo/navigation.png" width="200"/> | <img src="assets/sedo/media.png" width="200"/> |
+| <img src="assets/demo1.png" width="200"/> | <img src="assets/sedo/navigation.png" width="200"/> | <img src="assets/sedo/media.png" width="200"/> |
 
 <br/>
 
 #### In action
 
-<img src="test.gif" alt="Demo" width="800">
+<img src="assets/test.gif" alt="Demo" width="800">
 
 <br/>
 
