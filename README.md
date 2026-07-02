@@ -130,9 +130,9 @@ Live conditions, animated weather states, and a clean minimal interface.
 
 #### UI
 
-| Current Weather | Forecast | Night Mode |
-|-----------------|----------|------------|
-| <img src="assets/weather/current.png" width="200"/> | <img src="assets/weather/forecast.png" width="200"/> | <img src="assets/weather/night.png" width="200"/> |
+| Loading  | Forecast | 
+|-----------------|----------|
+|  <img src="https://github.com/user-attachments/assets/14b0436b-7a05-465c-bced-bcb39df1ebb9" width="200" /> | <img src="https://github.com/user-attachments/assets/bba4ad5f-2a63-477c-935e-30e6e46bca64" width="200" />  | 
 
 <br/>
 
